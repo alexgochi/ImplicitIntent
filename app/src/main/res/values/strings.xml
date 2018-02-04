@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Other</string>
+    <string name="edittext_uri">https://akademik.ithb.ac.id</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">ITHB</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">Media and Internet Technology (MIT)</string>
+    <string name="button_share">Share This Text</string>
+</resources>
