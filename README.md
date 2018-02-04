@@ -1,2 +1,2 @@
 # SIMPLE ANDROID Application
-# Redirect to whatever you want
+# Redirection to whatever you want
